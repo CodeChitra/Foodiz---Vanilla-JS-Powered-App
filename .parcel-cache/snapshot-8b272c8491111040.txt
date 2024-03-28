@@ -1,4 +1,4 @@
-9626
+9627
 84C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\svgo\LICENSE133557621140261884 0
 137C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\property133557621136766113 1
 98C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\lightningcss\node\ast.d.ts133557621534709815 0
@@ -41,7 +41,7 @@
 87C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\forkify-flowchart-part-1.png133557577977113541 0
 128C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\csso\node_modules\css-tree\cjs\tokenizer\TokenStream.cjs133557621998229886 0
 94C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\mdn-data\css\readme.md133557621136906690 0
-63C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\dist133561268841770743 1
+63C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\dist133561312190438729 1
 118C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\core-js\features\string\virtual\code-points.js133558971001600949 0
 94C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\react-refresh\babel.js133557621456482726 0
 101C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\@parcel\profiler\src\types.js133557621533230637 0
@@ -89,7 +89,7 @@
 138C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\String.js133557621141365080 0
 88C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\msgpackr\LICENSE133557621540791288 0
 100C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\semver\internal\constants.js133557621125330129 0
-69C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\index.html133560001544076872 0
+69C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\index.html133561294921608784 0
 107C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\core-js\internals\engine-is-node.js133558971003787900 0
 76C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\package-lock.json133559095397885914 0
 126C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\@parcel\core\test\fixtures\custom-targets\package.json133557622024170393 0
@@ -109,7 +109,7 @@
 66C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\src\img133557577979013419 1
 92C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\htmlnano\index.d.cts133557621464254164 0
 126C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\csso\node_modules\css-tree\lib\syntax\node\Function.js133557622080311045 0
-84C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\dist\favicon.8b2f57bf.png133561268841188789 0
+84C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\dist\favicon.8b2f57bf.png133561290824937080 0
 92C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\lmdb\src\lmdb-js.cpp133557622099212884 0
 90C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\chrome-trace-event133557621122464999 1
 104C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\react-error-overlay\lib\index.js133557621499907888 0
@@ -197,7 +197,7 @@
 113C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\svgo\plugins\removeUnknownsAndDefaults.js133557621834910464 0
 106C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\css-tree\lib\syntax\scope\value.js133557621161897037 0
 98C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\source-map-js\package.json133557621143505293 0
-79C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\src\js\controller.js133560003804801326 0
+79C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\src\js\controller.js133561312190076038 0
 98C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\semver\functions\coerce.js133557621119463050 0
 114C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\css-select\node_modules\domhandler\LICENSE133557621112769294 0
 80C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\chokidar133557626566077328 1
@@ -210,7 +210,7 @@
 120C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\@babel\highlight\node_modules\chalk\templates.js133557621121856048 0
 148C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\build-test.js133557621973043616 0
 85C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\parent-module133557621116726154 1
-74C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\src\js\model.js133559997824137223 0
+74C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\src\js\model.js133561311646031649 0
 94C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\commander\package.json133557621119361701 0
 120C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\css-select\node_modules\dom-serializer\README.md133557621128057463 0
 82C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\source-map133557621130165719 1
@@ -256,7 +256,7 @@
 94C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\css-tree\cjs\generator133557621154158046 1
 111C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\svgo\plugins\cleanupEnableBackground.js133557621791863908 0
 142C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file\src\index.js133557621960746501 0
-85C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\src\js\views\recipeView.js133561268837762411 0
+85C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\src\js\views\recipeView.js133561290035026834 0
 112C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\core-js\features\typed-array\subarray.js133558971026098305 0
 103C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\htmlnano\docs\docs\020-usage.md133557621515111497 0
 80C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\error-ex133557621116630774 1
@@ -266,7 +266,7 @@
 110C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\core-js\modules\es.typed-array.find.js133558971006729248 0
 118C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\caniuse-lite\data\features\css-nth-child-of.js133557621252358933 0
 119C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\core-js\modules\esnext.data-view.get-float16.js133558971007569394 0
-85C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\src\js\views\resultView.js133560018592354443 0
+85C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\src\js\views\resultView.js133561295612164003 0
 89C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\stable\index.d.ts133557621113805965 0
 94C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\@swc\core\CHANGELOG.md133557621626774808 0
 109C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\css-tree\cjs\syntax\atrule\import.cjs133557621144448339 0
@@ -292,7 +292,7 @@
 104C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\svgo\plugins\removeEmptyAttrs.js133557621825781249 0
 138C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\collapseGroups.js133557621131141180 0
 130C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\css-select\node_modules\domutils\lib\esm\manipulation.d.ts133557621144746396 0
-79C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\src\js\views\View.js133560029871193186 0
+79C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\src\js\views\View.js133561298542930980 0
 90C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\domhandler\LICENSE133557621112511908 0
 113C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\core-js\features\object\iterate-values.js133558971018115918 0
 124C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\lmdb\node_modules\node-addon-api\tools\check-napi.js133557622005351187 0
@@ -946,7 +946,7 @@
 97C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\resolve-from\package.json133557621112581909 0
 110C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\core-js\es\typed-array\reduce-right.js133558971022325516 0
 111C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\css-tree\lib\syntax\node\Declaration.js133557621157824878 0
-74C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\dist\index.html133561268841178791 0
+74C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\dist\index.html133561294925054030 0
 97C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\utility-types\SECURITY.md133557621386184031 0
 114C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\core-js\features\array\virtual\group-by.js133558971013817451 0
 96C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\utility-types\SUPPORT.md133557621386204085 0
@@ -1843,7 +1843,7 @@
 96C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\core-js\es\math\log1p.js133558971019352375 0
 91C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\posthtml\lib\api.js133557621479394327 0
 84C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\sass\LICENSE133557626566457402 0
-81C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\dist\logo.726d37a8.png133561268841558791 0
+81C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\dist\logo.726d37a8.png133561290824947087 0
 89C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\sass\sass.dart.js133557626581795897 0
 93C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\sass\sass.default.cjs133557626566477638 0
 104C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\css-tree\lib\syntax\node\Rule.js133557621160865919 0
@@ -3439,7 +3439,7 @@
 105C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\dom-serializer\lib\esm\index.d.ts133557621129235014 0
 109C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\dom-serializer\lib\esm\index.d.ts.map133557621125686258 0
 146C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.darwin-arm64.node133557621588536204 0
-82C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\dist\icons.dfd7a6db.svg133561268841770743 0
+82C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\dist\icons.dfd7a6db.svg133561290824937080 0
 89C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\core-js\full\math133558971029710233 1
 103C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\dom-serializer\lib\esm\index.js133557621118886548 0
 109C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\@swc\helpers\cjs\_new_arrow_check.cjs133557621401086225 0
@@ -5985,7 +5985,7 @@
 116C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\core-js\features\reflect\get-own-metadata.js133558971012984743 0
 149C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Dimension.js133557621141345119 0
 104C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\core-js\full\weak-map\emplace.js133558971003647806 0
-82C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\dist\index.f7626f62.css133561268841178791 0
+82C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\dist\index.f7626f62.css133561290824895419 0
 102C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\core-js\full\weak-map\index.js133558971016368566 0
 109C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\caniuse-lite\data\features\ac3-ec3.js133557621179924315 0
 137C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\@parcel\transformer-js\node_modules\regenerator-runtime\README.md133558970997654220 0
@@ -7805,7 +7805,7 @@
 103C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\caniuse-lite\data\regions\MH.js133557621466681823 0
 103C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\caniuse-lite\data\regions\MK.js133557621466721820 0
 103C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\caniuse-lite\data\regions\MM.js133557621466741775 0
-82C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\dist\icons.21bad73c.svg133561268841598829 0
+82C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\dist\icons.21bad73c.svg133561290824895419 0
 103C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\caniuse-lite\data\regions\MO.js133557621466761828 0
 103C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\caniuse-lite\data\regions\MP.js133557621466761828 0
 103C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\caniuse-lite\data\regions\MQ.js133557621466791815 0
@@ -9622,6 +9622,7 @@
 99C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\.bin\update-browserslist-db133557624136923972 0
 103C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\node_modules\.bin\update-browserslist-db.ps1133557624136923972 0
 85C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\dist\index.62406edb.js.map133557626627306849 0
-86C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\dist\index.f7626f62.css.map133561268841238831 0
-81C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\dist\index.e37f48ea.js133561268841318781 0
-85C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\dist\index.e37f48ea.js.map133561268841338819 0
+69C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\.gitignore133561269715023976 0
+86C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\dist\index.f7626f62.css.map133561290824987213 0
+81C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\dist\index.e37f48ea.js133561312190398742 0
+85C:\Users\rajsr\OneDrive\Desktop\Projects\JavaScript\foodiz\dist\index.e37f48ea.js.map133561312190428719 0
